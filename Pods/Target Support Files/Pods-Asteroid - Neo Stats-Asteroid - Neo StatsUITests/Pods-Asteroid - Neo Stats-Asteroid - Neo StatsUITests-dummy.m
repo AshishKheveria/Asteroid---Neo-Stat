@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Asteroid___Neo_Stats_Asteroid___Neo_StatsUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Asteroid___Neo_Stats_Asteroid___Neo_StatsUITests
+@end
