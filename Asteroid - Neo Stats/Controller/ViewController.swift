@@ -92,10 +92,10 @@ class ViewController: UIViewController, NeoStatManagerDelegate {
         submitButtonState.isEnabled = true
     }
     
-    var speedArray = [Double]()
-    var distanceArray = [Double]()
-    
     func didUpdateStat(_ statManager: NeoStatManager, stat: [NeoStatModel]) {
+       
+        var speedArray = [Double]()
+        var distanceArray = [Double]()
         
         for i in 0..<stat.count {
             
